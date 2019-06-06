@@ -12,7 +12,7 @@ function setBestCustomer() {
 }
 
 function overwriteBestCustomer() {
-  
+  let bestCustomer = 'maybe bob';
 }
 
 function changeLeastFavoriteCustomer(leastFavoriteCustomer) {
