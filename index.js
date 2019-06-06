@@ -8,12 +8,12 @@ function upperCaseCustomerName (customerName) {
   return customerName.toUpperCase();
 }
 
-function setBestCustomer(bestCustomer ) {
+function setBestCustomer(bestCustomer) {
   bestCustomer = 'not bob';
   return bestCustomer;
 }
 
-function overwriteBestCustomer(bestCustomer ) {
+function overwriteBestCustomer(bestCustomer) {
   bestCustomer = 'maybe bob';
   return bestCustomer;
 }
